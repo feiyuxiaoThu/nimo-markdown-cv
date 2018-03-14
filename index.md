@@ -12,7 +12,7 @@ pdf: true
 <a href="feiyuxiaothu@gmail.com" style="margin-left:0.5em">feiyuxiaothu@gmail.com</a>
 </div>
 
-## Education
+## Feiyu Xiao(肖飞宇)
 
 ### __Tsinghua University__ `2014.9 - 2018.7`
 ```
