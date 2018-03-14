@@ -136,6 +136,8 @@ Worked with Prof. BingYang Cao, on __Thermal management technology and theory in
 A detailed way is modified to calculated the phonon transmission across the interfaces between III-V semi-conductors
 based on the Atomic Green's Function method.
 
+![An MC Study on Non-Fourier Heat Conduction in silicon films](https://github.com/feiyuxiaoThu/TsinghuaDocuments/blob/master/MC/MC.png)
+
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
 _Visiting Scholar_<br>
 In [TEEL](http://www.phonon.t.u-tokyo.ac.jp/?),help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
