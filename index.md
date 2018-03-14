@@ -55,6 +55,16 @@ __Tsinghua University__
 
 I have studied in Tsinghua University since August, 2014, majoring in Engineering Mechanics in Tsien's Excellence in Education Program (TEEP), which is one of the six [Tsinghua Xuetang Talents Programs](http://www.tsinghua.edu.cn/publish/newthuen/newthuen_cnt/admissions/admissions-1-4.html). During my study in TEEP, I got a profound knowledge in mathematics and physics, which makes me much easier than others to learn new things and do difficult research.
 
+
+    
+__University of California, Berkeley__
+**Jun. 2017 - Aug. 2017**
+**Mechanical Engineering**
+**Visiting Student Researcher**
+
+From October, 2015 - February, 2016, I worked at [[Prof. Junichiro Shiomi](http://www.researcherid.com/rid/B-3644-2013)]'s Lab in Mechanical Engineering of Tokyo university. My research topic was Multi-scale phonon simulation in nanostructures and phonon interface properties modeling:Heat propagation and Optimization of Nano devicess.
+
+
 __Selected course work__
 
 <table>
@@ -86,14 +96,8 @@ __Selected course work__
             <th>Computational Fluid Mechanics</th>
             <th>94</th>
         </tr>
-    </table>
-    
-__University of California, Berkeley__
-Jun. 2017 - Aug. 2017
-Mechanical Engineering
-Visiting Student Researcher
+</table>
 
-From October, 2015 - February, 2016, I worked at [[Prof. Junichiro Shiomi](http://www.researcherid.com/rid/B-3644-2013)]'s Lab in Mechanical Engineering of Tokyo university. My research topic was Multi-scale phonon simulation in nanostructures and phonon interface properties modeling:Heat propagation and Optimization of Nano devicess.
 
 
 
