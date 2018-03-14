@@ -117,17 +117,25 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __Tsinghua University, Research Experiences for Undergraduate__  `2015.10 - 2016.8`
 _Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+In The HeatHeatenergists Group (HEG), I have an overall view of the following three areas and gained 
+sufficient skills to conduct a research.<br>
+**Non-Fourier heat transport and thermophysical properties of micro/nano-structures, including nanofilms, nanowires, nanotubes, graphene, polymer chains etc** <br>
+**Thermal smart materials and nanocomposites with tunable or high thermal conductivity, and their applications in energy or micro/nano-electrics cooling areas** <br>
+**Thermal management technology and theory in advanced technologies, such as nanoenergy, integrated circuits, MEMS/NEMS, laser, spacecrafts** 
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
+
+### __Tsinghua University, The Heatenergists Group__ `2016.10 - 2017.6`
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Worked with Prof. BingYang Cao, on __Thermal management technology and theory in advanced technologies__ project. 
+A detailed way is modified to calculated the phonon transmission across the interfaces between III-V semi-conductors
+based on the Atomic Green's Function method.
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Tokyo University, Thermal Energy Engineering Lab __ `2017.6 - 2017.8`
+_Visiting Scholar_<br>
+Help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
+to efficiently find out the structure with desired property.
 
 
 
