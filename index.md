@@ -18,7 +18,7 @@ pdf: true
 ```
 Beijing, China
 ```
-- Bachelor in [[School of Aerospace Engineerings](http://www.hy.tsinghua.edu.cn/publish/hyen/index.html)]
+- Bachelor in [[School of Aerospace Engineering](http://www.hy.tsinghua.edu.cn/publish/hyen/index.html)]
 - [[Tsien's Class](http://cnmm.tsinghua.edu.cn/teep/#!/)]
 - Mechanics, Theoretical Physics and Nano Thermodynamics
 
@@ -26,7 +26,7 @@ Beijing, China
 ```
 Beijing, China
 ```
-- Master in [[Zhou Qing's group](http://www.dae.tsinghua.edu.cn/publish/dae/4364/2010/20101216111943138595093/20101216111943138595093_.htmll)]
+- Master in [[Zhou Qing's group](http://www.dae.tsinghua.edu.cn/publish/dae/4364/2010/20101216111943138595093/20101216111943138595093_.html)]
 - [[Department of Automotive Engineering](http://www.tsinghua.edu.cn/publish/daeen/index.html)]
 - Battery collision safety,Lightweight of Automobile
 
