@@ -116,8 +116,8 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 [[My Work](https://github.com/feiyuxiaoThu/stappp/tree/master/PreProcessor)] <br>
 
 <p>
-Final Result：
-<img src="https://github.com/feiyuxiaoThu/stappp/blob/master/Final%20Result.png" width="128" height="128" />
+Final Result：<br>
+<img src="https://github.com/feiyuxiaoThu/stappp/blob/master/Final%20Result.png"  />
 </p>
 
 
