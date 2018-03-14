@@ -130,10 +130,12 @@ Worked on server-side web applications and server deployment tools.
 
 ## Honors & Awards
 
-Academic Merit Scholarship ` Oct. 2017` <br>
-Tsinghua Xuetang Talents Program Scholarship ` Dec. 2014` <br>
++Academic Merit Scholarship,Oct. 2017
++Tsinghua Xuetang Talents Program Scholarship,Dec. 2014
 
 
 <!-- ### Footer
+
+Last updated: May 2018 -->
 
 
