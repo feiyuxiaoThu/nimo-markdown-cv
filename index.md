@@ -55,8 +55,6 @@ __Tsinghua University__
 
 I have studied in Tsinghua University since August, 2014, majoring in Engineering Mechanics in Tsien's Excellence in Education Program (TEEP), which is one of the six [Tsinghua Xuetang Talents Programs](http://www.tsinghua.edu.cn/publish/newthuen/newthuen_cnt/admissions/admissions-1-4.html). During my study in TEEP, I got a profound knowledge in mathematics and physics, which makes me much easier than others to learn new things and do difficult research.
 
-
-    
 __University of California, Berkeley__
 **Jun. 2017 - Aug. 2017**
 **Mechanical Engineering**
