@@ -1,36 +1,103 @@
 ---
 layout: cv
-title: Nimo's CV
+title: FeiyuXiao's CV
 pdf: true
 ---
-# Wode __Ni__
+# Feiyu __Xiao__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="http://feiyuxiao.xyz" style="margin-left:0.5em">www.feiyuxiao.xyz</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="feiyuxiaothu@gmail.com" style="margin-left:0.5em">feiyuxiaothu@gmail.com</a>
 </div>
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __Tsinghua University__ `2014.9 - 2018.7`
 ```
-New York, NY
+Beijing, China
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- Bachelor in [[School of Aerospace Engineerings](http://www.hy.tsinghua.edu.cn/publish/hyen/index.html)]
+- [[Tsien's Class](http://cnmm.tsinghua.edu.cn/teep/#!/)]
+- Mechanics, Theoretical Physics and Nano Thermodynamics
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Tsinghua University__ `2018.9- Present`
 ```
-Carlisle, PA
+Beijing, China
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+- Master in [[Zhou Qing's group](http://www.dae.tsinghua.edu.cn/publish/dae/4364/2010/20101216111943138595093/20101216111943138595093_.htmll)]
+- [[Department of Automotive Engineering](http://www.tsinghua.edu.cn/publish/daeen/index.html)]
+- Battery collision safety,Lightweight of Automobile
 
-## Publications
+### __The University of Tokyo__ `2017.6 - 2017.8`
+```
+Tokyo, Japan
+```
+- Visiting student researcher in [[Thermal Energy Engineering
+Lab](http://www.phonon.t.u-tokyo.ac.jp/?l)]
+- (ORIC)Open Research for Innovative Challenges
+- [[Multi-scale phonon simulation in nanostructures and phonon interface properties modeling:Heat propagation and Optimization of Nano devicess](https://www.researchgate.net/publication/321211074_Multi-scale_phonon_simulation_in_nanostructures_and_phonon_interface_properties_modelingHeat_propagation_and_Optimization_of_Nano_devices)]
+
+I received my Bachelor degree majoring Engineering Mechanics from School of Aerospace, Tsinghua University in July, 2018. I had been to University of Tokyo as a visiting scholar under the supervisor of [[Prof. Junichiro Shiomi](http://www.researcherid.com/rid/B-3644-2013)] of Mechanical Engineering.
+
+My current research mainly focuses on battery integrity in EVs and the lightweight of Automobile, and I am 
+also interested on the control, safety and lightweight of Autonomous vehicles.
+
+Please feel free to [Contact Me](feiyuxiaothu@gmail.com) download my CV.
+
+## Education
+
+__Tsinghua University__
+**Aug. 2014 - Jul. 2018**
+**Engineering Mechanics, School of Aerospace**
+**Undergraduate Student**
+
+I have studied in Tsinghua University since August, 2014, majoring in Engineering Mechanics in Tsien's Excellence in Education Program (TEEP), which is one of the six [Tsinghua Xuetang Talents Programs](http://www.tsinghua.edu.cn/publish/newthuen/newthuen_cnt/admissions/admissions-1-4.html). During my study in TEEP, I got a profound knowledge in mathematics and physics, which makes me much easier than others to learn new things and do difficult research.
+
+__Selected course work__
+
+<table>
+        <tr>
+            <th>Course name</th>
+            <th>Score</th>
+        </tr>
+        <tr>
+            <th>Advanced Algebra and Geometry</th>
+            <th>91</th>
+        </tr>
+        <tr>
+            <th>Physics</th>
+            <th>100</th>
+        </tr>
+        <tr>
+            <th>Quantumn Mechanics</th>
+            <th>90</th>
+        </tr>
+        <tr>
+            <th>Statistical Mechanics</th>
+            <th>87</th>
+        </tr>
+        <tr>
+            <th>Solid Mechanics</th>
+            <th>92</th>
+        </tr>
+        <tr>
+            <th>Computational Fluid Mechanics</th>
+            <th>94</th>
+        </tr>
+    </table>
+    
+__University of California, Berkeley__
+Jun. 2017 - Aug. 2017
+Mechanical Engineering
+Visiting Student Researcher
+
+From October, 2015 - February, 2016, I worked at [[Prof. Junichiro Shiomi](http://www.researcherid.com/rid/B-3644-2013)]'s Lab in Mechanical Engineering of Tokyo university. My research topic was Multi-scale phonon simulation in nanostructures and phonon interface properties modeling:Heat propagation and Optimization of Nano devicess.
+
+
+
+## Projects
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
@@ -58,22 +125,12 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
-
 
 ## Honors & Awards
 
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
+Academic Merit Scholarship ` Oct. 2017` <br>
+singhua Xuetang Talents Program Scholarship ` Dec. 2014` <br>
+
 
 <!-- ### Footer
 
