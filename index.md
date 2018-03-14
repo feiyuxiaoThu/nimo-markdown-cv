@@ -101,16 +101,21 @@ __Selected course work__
 
 ## Projects
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### [__Multi-scale phonon simulation in
+nanostructures and phonon interface
+properties modeling:Heat propagation and Optimization of Nano devices__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+__Feiyu Xiao__ <br>
+Supervisor:Prof.Cao Bingyang(Tsinghua University) <br>
+           Prof.Junichiro Shiomi <br>    
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+[[PDF](https://github.com/feiyuxiaoThu/Oric/blob/master/Thesis.pdf)]
+[[slides](https://github.com/feiyuxiaoThu/Oric/blob/master/Oricpre.pdf)]
+[[ResearchGate](https://www.researchgate.net/publication/321211074_Multi-scale_phonon_simulation_in_nanostructures_and_phonon_interface_properties_modelingHeat_propagation_and_Optimization_of_Nano_devices)]
+[[repo](https://github.com/feiyuxiaoThu/Oric)]
+
+### [__Stapp: The Code expansion of C++ finite element method__](https://github.com/feiyuxiaoThu/stappp)
+Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
+[[My Work](https://github.com/feiyuxiaoThu/stappp/tree/master/PreProcessor)]
 
 ## Experience
 
