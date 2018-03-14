@@ -101,10 +101,7 @@ __Selected course work__
 
 ## Projects
 
-### 
-[__Multi-scale phonon simulation in
-nanostructures and phonon interface
-properties modeling__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams) <br>
+### [__Multi-scale phonon simulation in nanostructures and phonon interface properties modeling__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams) <br>
 __Feiyu Xiao__ <br>
 Supervisor:Prof.Cao Bingyang(Tsinghua University) <br>
            Prof.Junichiro Shiomi <br>    
