@@ -136,7 +136,7 @@ Thermal management technology and theory in advanced technologies, such as nanoe
 _Research Assistant_<br>
 Worked with Prof. BingYang Cao, on __Thermal management technology and theory in advanced technologies__ project. 
 A detailed way is modified to calculated the phonon transmission across the interfaces between III-V semi-conductors
-based on the Atomic Green's Function method.
+based on the Atomic Green's Function method.<br>
 
 <p>
 An MC Study on Non-Fourier Heat Conduction in silicon films: <br>
