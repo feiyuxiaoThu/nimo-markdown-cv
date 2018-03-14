@@ -140,7 +140,7 @@ based on the Atomic Green's Function method.
 
 <p>
 An MC Study on Non-Fourier Heat Conduction in silicon films：
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png">
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png，width="256"  /">
 </p>
 
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
