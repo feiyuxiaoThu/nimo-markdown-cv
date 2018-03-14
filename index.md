@@ -115,8 +115,10 @@ Supervisor:Prof.Cao Bingyang(Tsinghua University) <br>
 Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 [[My Work](https://github.com/feiyuxiaoThu/stappp/tree/master/PreProcessor)] <br>
 
-![Final Result](https://github.com/feiyuxiaoThu/stappp/blob/master/Final%20Result.png)
-
+<p>
+Final Result：
+<img src="https://github.com/feiyuxiaoThu/stappp/blob/master/Final%20Result.png" width="128" height="128" />
+</p>
 
 
 ## Experience
@@ -136,7 +138,10 @@ Worked with Prof. BingYang Cao, on __Thermal management technology and theory in
 A detailed way is modified to calculated the phonon transmission across the interfaces between III-V semi-conductors
 based on the Atomic Green's Function method.
 
-![An MC Study on Non-Fourier Heat Conduction in silicon films](https://github.com/feiyuxiaoThu/TsinghuaDocuments/blob/master/MC/MC.png)
+<p>
+An MC Study on Non-Fourier Heat Conduction in silicon films：
+<img src="https://github.com/feiyuxiaoThu/TsinghuaDocuments/blob/master/MC/MC.png" width="128" height="128" />
+</p>
 
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
 _Visiting Scholar_<br>
