@@ -117,7 +117,7 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 
 <p>
 Final Result：<br>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png" width="256" height="256"  />
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png" width="800"   />
 </p>
 
 
@@ -140,7 +140,7 @@ based on the Atomic Green's Function method.
 
 <p>
 An MC Study on Non-Fourier Heat Conduction in silicon films：
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png，width="256"  /">
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png" width="500"  />
 </p>
 
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
