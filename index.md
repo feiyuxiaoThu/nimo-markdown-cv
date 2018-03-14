@@ -101,9 +101,10 @@ __Selected course work__
 
 ## Projects
 
-### [__Multi-scale phonon simulation in
+### 
+[__Multi-scale phonon simulation in
 nanostructures and phonon interface
-properties modeling:Heat propagation and Optimization of Nano devices__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+properties modeling__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams) <br>
 __Feiyu Xiao__ <br>
 Supervisor:Prof.Cao Bingyang(Tsinghua University) <br>
            Prof.Junichiro Shiomi <br>    
