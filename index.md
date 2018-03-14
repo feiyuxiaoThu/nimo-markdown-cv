@@ -117,7 +117,7 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 
 <p>
 Final Result：<br>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png"  />
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png" width="256" height="256"  />
 </p>
 
 
