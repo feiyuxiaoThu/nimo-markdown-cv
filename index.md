@@ -134,7 +134,7 @@ based on the Atomic Green's Function method.
 
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
 _Visiting Scholar_<br>
-Help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
+In [TEEL](http://www.phonon.t.u-tokyo.ac.jp/?),help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
 to efficiently find out the structure with desired property.
 
 
