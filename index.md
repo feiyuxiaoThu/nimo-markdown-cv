@@ -119,11 +119,11 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 
 ### __Tsinghua University, Research Experiences for Undergraduate__  `2015.10 - 2016.8`
 _Research Assistant_<br>
-In The HeatHeatenergists Group (HEG), I have an overall view of the following three areas and gained 
+In [The HeatHeatenergists Group (HEG)](http://www.heatenergist.org/index.asp), I have an overall view of the following three areas and gained 
 sufficient skills to conduct a research.<br>
-**Non-Fourier heat transport and thermophysical properties of micro/nano-structures, including nanofilms, nanowires, nanotubes, graphene, polymer chains etc** <br>
-**Thermal smart materials and nanocomposites with tunable or high thermal conductivity, and their applications in energy or micro/nano-electrics cooling areas** <br>
-**Thermal management technology and theory in advanced technologies, such as nanoenergy, integrated circuits, MEMS/NEMS, laser, spacecrafts** 
+Non-Fourier heat transport and thermophysical properties of micro/nano-structures, including nanofilms, nanowires, nanotubes, graphene, polymer chains etc <br>
+Thermal smart materials and nanocomposites with tunable or high thermal conductivity, and their applications in energy or micro/nano-electrics cooling areas <br>
+Thermal management technology and theory in advanced technologies, such as nanoenergy, integrated circuits, MEMS/NEMS, laser, spacecrafts
 
 
 ### __Tsinghua University, The Heatenergists Group__ `2016.10 - 2017.6`
@@ -132,7 +132,7 @@ Worked with Prof. BingYang Cao, on __Thermal management technology and theory in
 A detailed way is modified to calculated the phonon transmission across the interfaces between III-V semi-conductors
 based on the Atomic Green's Function method.
 
-### __Tokyo University, Thermal Energy Engineering Lab __ `2017.6 - 2017.8`
+### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
 _Visiting Scholar_<br>
 Help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
 to efficiently find out the structure with desired property.
