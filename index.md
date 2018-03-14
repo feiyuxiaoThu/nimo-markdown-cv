@@ -113,7 +113,11 @@ Supervisor:Prof.Cao Bingyang(Tsinghua University) <br>
 
 ### [__Stapp: The Code expansion of C++ finite element method__](https://github.com/feiyuxiaoThu/stappp)
 Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
-[[My Work](https://github.com/feiyuxiaoThu/stappp/tree/master/PreProcessor)]
+[[My Work](https://github.com/feiyuxiaoThu/stappp/tree/master/PreProcessor)] <br>
+
+![Final Result](https://github.com/feiyuxiaoThu/stappp/blob/master/Final%20Result.png)
+
+
 
 ## Experience
 
