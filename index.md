@@ -68,31 +68,31 @@ __Selected course work__
 <table>
         <tr>
             <th>Course name</th>
-            <th>Score</th>
+            <th>Rank</th>
         </tr>
         <tr>
             <th>Advanced Algebra and Geometry</th>
-            <th>91</th>
+            <th>4/28</th>
         </tr>
         <tr>
             <th>Physics</th>
-            <th>100</th>
+            <th>1/200</th>
         </tr>
         <tr>
             <th>Quantumn Mechanics</th>
-            <th>90</th>
+            <th>10/60</th>
         </tr>
         <tr>
             <th>Statistical Mechanics</th>
-            <th>87</th>
+            <th>5/30</th>
         </tr>
         <tr>
             <th>Solid Mechanics</th>
-            <th>92</th>
+            <th>6/24</th>
         </tr>
         <tr>
             <th>Computational Fluid Mechanics</th>
-            <th>94</th>
+            <th>1/20</th>
         </tr>
 </table>
 
