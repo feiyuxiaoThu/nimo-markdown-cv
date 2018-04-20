@@ -141,7 +141,7 @@ based on the Atomic Green's Function method.<br>
 
 <p>
 An MC Study on Non-Fourier Heat Conduction in silicon films: <br>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png" width="800" />
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/MC.png" width="600" />
 </p>
 
 ### __Tokyo University,Thermal Energy Engineering Lab__ `2017.6 - 2017.8`
@@ -149,6 +149,11 @@ _Visiting Scholar_<br>
 In [TEEL](http://www.phonon.t.u-tokyo.ac.jp/?),help to perform simulations of nano-heat conduction in different interfaces and perform a bayesian way
 to efficiently find out the structure with desired property.
 
+
+<p>
+Designing Nanostructures for Phono Transport via Bayesian Optimization and using Atomistic Green's Function Method: <br>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/ITC.png" width="600" />
+</p>
 
 
 ## Honors & Awards
