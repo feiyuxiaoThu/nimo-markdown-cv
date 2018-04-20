@@ -19,7 +19,8 @@ pdf: true
 Beijing, China
 ```
 - Bachelor in [[School of Aerospace Engineering](http://www.hy.tsinghua.edu.cn/publish/hyen/index.html)]
-- [[Tsien's Class](http://cnmm.tsinghua.edu.cn/teep/#!/)]
+- [[Tsien's Class](http://cnmm.tsinghua.edu.cn/teep/#!/)
+- [[XINYA College](http://www.xyc.tsinghua.edu.cn/)]
 - Mechanics, Theoretical Physics and Nano Thermodynamics
 
 ### __Tsinghua University__ `2018.9- Present`
