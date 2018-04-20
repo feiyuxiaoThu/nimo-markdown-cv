@@ -118,7 +118,7 @@ Feiyu Xiao, Hao Liu, Jingyu Zhao, Shupeng Li<br>
 
 <p>
 Final Result：<br>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png" width="800" />
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/stappp/master/Final%20Result.png" width="600" />
 </p>
 
 
@@ -152,7 +152,7 @@ to efficiently find out the structure with desired property.
 
 <p>
 Designing Nanostructures for Phono Transport via Bayesian Optimization and using Atomistic Green's Function Method: <br>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/ITC.png" width="600" />
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/TsinghuaDocuments/master/MC/ITC.PNG" width="600" />
 </p>
 
 
